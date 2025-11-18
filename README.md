@@ -19,9 +19,13 @@ explorer "https://www.youtube.com/user/lintangbagus"&goto halt
 echo.&echo ***************************************************************************=&echo Sorry! Your version is not supported.&echo Please try installing the latest version!
 :halt
 pause
+
+
+
 Make sure your internet connection is good enough, then open the file: right click & choose Open as Administrator. Automatically it will access KMS server to activate your Microsoft Office 2016. Wait until its processing done.
 
-screenshot
+<img width="1321" height="1376" alt="image" src="https://github.com/user-attachments/assets/1587c05d-1594-4189-a532-93aa568d20f1" />
+
 
 If everything goes well, now your Microsoft Office 2016 is activated. On the last line, you can type n to exit from the terminal, or type y to see my projects on YouTube. Enjoy! 😎
 

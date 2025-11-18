@@ -21,7 +21,6 @@ echo.&echo *********************************************************************
 pause
 
 
-
 Make sure your internet connection is good enough, then open the file: right click & choose Open as Administrator. Automatically it will access KMS server to activate your Microsoft Office 2016. Wait until its processing done.
 
 <img width="1321" height="1376" alt="image" src="https://github.com/user-attachments/assets/1587c05d-1594-4189-a532-93aa568d20f1" />
